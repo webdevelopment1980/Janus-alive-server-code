@@ -1,0 +1,1464 @@
+[
+  {
+    "_id": {
+      "$oid": "659661031a6eeb296f3f4830"
+    },
+    "address": "Ayodhya Cantt Railway Station",
+    "price": null,
+    "totalsqft": 150,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1706765306/Ayodhya-Cantt-Railway-Station_wfdezt_ux00u7.jpg",
+    "category": "Outdoor Advertising",
+    "city": "Ayodhya",
+    "heightwidth": "15 x 10",
+    "state": "Uttar Pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "LED",
+    "createdAt": {
+      "$date": "2024-01-04T07:40:51.082Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-01T05:28:27.156Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "subcat": "",
+    "url": "ayodhya-cantt-railway-station"
+  },
+  {
+    "_id": {
+      "$oid": "6596615d1a6eeb296f3f4834"
+    },
+    "address": "Ayodhya Junction Railway Station  ",
+    "price": null,
+    "totalsqft": 150,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704354139/Ayodhya-Junction-Railway-Station_oi5yny.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "15 x 10",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "LED",
+    "createdAt": {
+      "$date": "2024-01-04T07:42:21.378Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T07:42:21.378Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "ayodhya-junction-railway-station"
+  },
+  {
+    "_id": {
+      "$oid": "659662381a6eeb296f3f4844"
+    },
+    "address": "HANUMAN GADHI FC SHREE RAM MANDIR",
+    "price": null,
+    "totalsqft": 600,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704354359/HANUMAN-GADHI-FC-SHREE-RAM-MANDIR_xsxv9m.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "30 x 20",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "HANUMAN GADHI FC SHREE RAM MANDIR\n",
+    "illumination": "",
+    "createdAt": {
+      "$date": "2024-01-04T07:46:00.794Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T07:46:00.794Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "hanuman-gadhi-fc-shree-ram-mandir"
+  },
+  {
+    "_id": {
+      "$oid": "6596639c1a6eeb296f3f4853"
+    },
+    "address": "   \t HANUMAN GADHI Towards Shri Ram mandir ",
+    "price": null,
+    "totalsqft": 1000,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704354715/HANUMAN-GADHI-FC-SHREE-RAM-MANDIR_yh7vq7.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "40 x 25",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": " \n \t\nHANUMAN GADHI Towards Shri Ram mandir ",
+    "illumination": "NL",
+    "createdAt": {
+      "$date": "2024-01-04T07:51:56.256Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T07:51:56.256Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "hanuman-gadhi-towards-shri-ram-mandir"
+  },
+  {
+    "_id": {
+      "$oid": "659664231a6eeb296f3f486d"
+    },
+    "address": "Police Line Puhspraj Chauraha                              ",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704354850/Police-Line-Puhspraj-Chauraha_ab8dh1.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "20 x 10 ",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "Police Line Puhspraj Chauraha                              ",
+    "illumination": "BL",
+    "createdAt": {
+      "$date": "2024-01-04T07:54:11.341Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T07:54:11.341Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "police-line-puhspraj-chauraha"
+  },
+  {
+    "_id": {
+      "$oid": "659664881a6eeb296f3f4871"
+    },
+    "address": "   Police Line Puhspraj Chauraha facing Vdyut Vibhag",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704354951/Police-Line-Puhspraj-Chauraha-facing-Vidyut-Vibhag_sykyzq.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "20 x 10",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": " \n \t\nPolice Line Puhspraj Chauraha facing Vdyut Vibhag",
+    "illumination": "BL",
+    "createdAt": {
+      "$date": "2024-01-04T07:55:52.608Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T07:55:52.608Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "police-line-puhspraj-chauraha-facing-vdyut-vibhag"
+  },
+  {
+    "_id": {
+      "$oid": "6596662d1a6eeb296f3f488f"
+    },
+    "address": "   \t Airport Road Fc Awadh University ",
+    "price": null,
+    "totalsqft": 900,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704355372/-Airport-Road-Fc-Awadh-University_brdwdl.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "30 x 30",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": " \n \t\nAirport Road Fc Awadh University ",
+    "illumination": "NL",
+    "createdAt": {
+      "$date": "2024-01-04T08:02:53.444Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T08:02:53.444Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "airport-road-fc-awadh-university"
+  },
+  {
+    "_id": {
+      "$oid": "659667ae1a6eeb296f3f48b2"
+    },
+    "address": "   \t Naka Airport Road Fc Naka Sultanpur Bypass ",
+    "price": null,
+    "totalsqft": 900,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704355756/-Naka-Airport-Road-Fc-Naka-Sultanpur-Bypass_dh4lxt.jpg",
+    "category": "Outdoor Advertising",
+    "city": "sultanpur",
+    "heightwidth": "30 x 30",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": " \n \t\nNaka Airport Road Fc Naka Sultanpur Bypass ",
+    "illumination": "NL",
+    "createdAt": {
+      "$date": "2024-01-04T08:09:18.156Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T08:09:18.156Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "naka-airport-road-fc-naka-sultanpur-bypass"
+  },
+  {
+    "_id": {
+      "$oid": "6596680a1a6eeb296f3f48b4"
+    },
+    "address": "   \t Saket Degree College facing Railway Station ",
+    "price": null,
+    "totalsqft": 600,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704355849/-Saket-Degree-College-facing-Railway-Station_nnevoq.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "30 x 20",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": " \n \t\nSaket Degree College facing Railway Station \n",
+    "illumination": "NL",
+    "createdAt": {
+      "$date": "2024-01-04T08:10:50.592Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T08:10:50.592Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "saket-degree-college-facing-railway-station"
+  },
+  {
+    "_id": {
+      "$oid": "659668f81a6eeb296f3f48ba"
+    },
+    "address": "Sri Ram Ji Temple Lata Mangeskar Chowk Fc Chowk ",
+    "price": null,
+    "totalsqft": null,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704356087/Sri-Ram-Ji-Temple-Lata-Mangeskar-Chowk-Fc-Chowk_hiumcb.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "Sri Ram Ji Temple Lata Mangeskar Chowk Fc Chowk \n",
+    "illumination": "LED",
+    "createdAt": {
+      "$date": "2024-01-04T08:14:48.943Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T08:14:48.943Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "sri-ram-ji-temple-lata-mangeskar-chowk-fc-chowk"
+  },
+  {
+    "_id": {
+      "$oid": "6596698b1a6eeb296f3f48cd"
+    },
+    "address": "Sri Ram Ji Temple Lata Mangeskar Chowk Fc Hanuman Gadhi",
+    "price": null,
+    "totalsqft": 96,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704356234/Sri-Ram-Ji-Temple-Lata-Mangeskar-Chowk-Fc-Hanuman-Gadhi_eozxa4.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "12 x 8",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "Sri Ram Ji Temple Lata Mangeskar Chowk Fc Hanuman Gadhi",
+    "illumination": "LED",
+    "createdAt": {
+      "$date": "2024-01-04T08:17:15.618Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T08:17:15.618Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "sri-ram-ji-temple-lata-mangeskar-chowk-fc-hanuman-gadhi"
+  },
+  {
+    "_id": {
+      "$oid": "65966a3b1a6eeb296f3f48e4"
+    },
+    "address": "Saket degree Chauraha near Railway Station facing parag  dairy",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704356410/Ayodhya-_-Saket-degree-Chauraha-near-Railway-Station-facing-parag--dairy_p6bl8m.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "20 x 10",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "Saket degree Chauraha near Railway Station facing parag  dairy",
+    "illumination": "BL",
+    "createdAt": {
+      "$date": "2024-01-04T08:20:11.418Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T08:20:11.418Z",
+      "url": "saket-degree-chauraha-near-railway-station-facing-parag-dairy"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency"
+  },
+  {
+    "_id": {
+      "$oid": "65966aab1a6eeb296f3f48e9"
+    },
+    "address": "Saket degree College Near Ayodhya Railway Station",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704356522/Ayodhya-_-Saket-degree-College-Near-Ayodhya-Railway-Station_ec2zub.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "20 x 10",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "Saket degree College Near Ayodhya Railway Station\n",
+    "illumination": "BL",
+    "createdAt": {
+      "$date": "2024-01-04T08:22:03.332Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T08:22:03.332Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "saket-degree-college-near-ayodhya-railway-station"
+  },
+  {
+    "_id": {
+      "$oid": "65966b451a6eeb296f3f48f4"
+    },
+    "address": "Airport Road Fc Awadh University ",
+    "price": null,
+    "totalsqft": 900,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704356675/-Airport-Road-Fc-Awadh-University_ihnthi.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "30 x 30 ",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "Airport Road Fc Awadh University ",
+    "illumination": "NL",
+    "createdAt": {
+      "$date": "2024-01-04T08:24:37.647Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T08:24:37.647Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "airport-road-fc-awadh-university"
+  },
+  {
+    "_id": {
+      "$oid": "65966c6a1a6eeb296f3f4918"
+    },
+    "address": "Naka Airport road Facing Chowk",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704356968/Naka-Airport-road-Facing-Chowk_n4qu9q.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "20 x 10",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "Naka Airport road Facing Chowk",
+    "illumination": "BL",
+    "createdAt": {
+      "$date": "2024-01-04T08:29:30.002Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T08:29:30.002Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "naka-airport-road-facing-chowk"
+  },
+  {
+    "_id": {
+      "$oid": "65966d921a6eeb296f3f492d"
+    },
+    "address": "Hanuman Gadhi near Ram Mandir ",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704357265/Ayodhya-_-Hanuman-Gadhi-near-Ram-Mandir_n0mld2.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "20 x 10",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "Hanuman Gadhi near Ram Mandir ",
+    "illumination": "BL",
+    "createdAt": {
+      "$date": "2024-01-04T08:34:26.082Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T08:34:26.082Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "hanuman-gadhi-near-ram-mandir"
+  },
+  {
+    "_id": {
+      "$oid": "65966ec11a6eeb296f3f493f"
+    },
+    "address": "Hanuman Gadhi Facing Bus Stand ",
+    "price": null,
+    "totalsqft": 199,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704357568/-Hanuman-Gadhi-Facing-Bus-Stand_ddumao.jpg",
+    "category": "Outdoor Advertising",
+    "city": "ayodhya",
+    "heightwidth": "20 x 10",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "Hanuman Gadhi Facing Bus Stand ",
+    "illumination": "BL",
+    "createdAt": {
+      "$date": "2024-01-04T08:39:29.431Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-04T08:39:29.431Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "hanuman-gadhi-facing-bus-stand"
+  },
+  {
+    "_id": {
+      "$oid": "6597ab484f24582aa492c8a4"
+    },
+    "address": "ANSAL PLAZA TOWARDS KHEL GOAN",
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704438599/OOH_PLAN_FOR_DELHI_NCR_page-0002_mvetnv.jpg",
+    "category": "Outdoor Advertising",
+    "city": "south delhi",
+    "heightwidth": "20 X 10",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "oHVW57nS",
+    "createdAt": {
+      "$date": "2024-01-05T07:10:00.925Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:10:00.925Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "ansal-plaza-towards-khel-goan"
+  },
+  {
+    "_id": {
+      "$oid": "6597ad9b4f24582aa492c8b1"
+    },
+    "address": "ANSAL PLAZA TOWARDS KHEL GOAN",
+    "totalsqft": 160,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704439194/OOH_PLAN_FOR_DELHI_NCR_page-0003_n7nd9m.jpg",
+    "category": "Outdoor Advertising",
+    "city": "south delhi",
+    "heightwidth": "20 X 8",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "eieQUxMS",
+    "createdAt": {
+      "$date": "2024-01-05T07:19:55.676Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:19:55.676Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "ansal-plaza-towards-khel-goan-south-delhi"
+  },
+  {
+    "_id": {
+      "$oid": "6597ae034f24582aa492c8b3"
+    },
+    "address": "NEAR PROMENADE MALL NELSON MANDELA ROAD",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704439298/OOH_PLAN_FOR_DELHI_NCR_page-0004_afghzk.jpg",
+    "category": "Outdoor Advertising",
+    "city": "south delhi",
+    "heightwidth": "20 X 10",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "i9YnON1d",
+    "createdAt": {
+      "$date": "2024-01-05T07:21:39.703Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:21:39.703Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "near-promenade-mall-nelson-mandela-road"
+  },
+  {
+    "_id": {
+      "$oid": "6597aeeb4f24582aa492c8b5"
+    },
+    "address": "WALL PANEL LAJPAT NAGAR METRO STATION",
+    "price": null,
+    "totalsqft": 280,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704439529/OOH_PLAN_FOR_DELHI_NCR_page-0005_teizbx.jpg",
+    "category": "Outdoor Advertising",
+    "city": "south delhi",
+    "heightwidth": "35 X 8",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "O0UolhDz",
+    "createdAt": {
+      "$date": "2024-01-05T07:25:31.017Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:25:31.017Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "wall-panel-lajpat-nagar-metro-station"
+  },
+  {
+    "_id": {
+      "$oid": "6597af804f24582aa492c8b7"
+    },
+    "address": "WALL PANEL SAROJNI NAGAR MARKET",
+    "price": null,
+    "totalsqft": 128,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704439678/OOH_PLAN_FOR_DELHI_NCR_page-0006_k02ifm.jpg",
+    "category": "Outdoor Advertising",
+    "city": "south delhi",
+    "heightwidth": "16 X 8",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "LN7CzmM2",
+    "createdAt": {
+      "$date": "2024-01-05T07:28:00.699Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:28:00.699Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "wall-panel-sarojni-nagar-market"
+  },
+  {
+    "_id": {
+      "$oid": "6597afff4f24582aa492c8b9"
+    },
+    "address": "WALL PANEL R K PURAM METRO STATION OUTER RING ROAD",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704439806/OOH_PLAN_FOR_DELHI_NCR_page-0007_c9g4hy.jpg",
+    "category": "Outdoor Advertising",
+    "city": "south delhi",
+    "heightwidth": "20 X 10",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "EzwCSQpe",
+    "createdAt": {
+      "$date": "2024-01-05T07:30:07.669Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:30:07.669Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "wall-panel-r-k-puram-metro-station-outer-ring-road"
+  },
+  {
+    "_id": {
+      "$oid": "6597b0894f24582aa492c8bb"
+    },
+    "address": "WALL PANEL R K PURAM METRO STATION OUTER RING ROAD",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704439944/OOH_PLAN_FOR_DELHI_NCR_page-0008_b4mdfg.jpg",
+    "category": "Outdoor Advertising",
+    "city": "south delhi",
+    "heightwidth": "20 X 10",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "",
+    "code": "OdOjhZgj",
+    "createdAt": {
+      "$date": "2024-01-05T07:32:25.861Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:32:25.861Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "wall-panel-r-k-puram-metro-station-outer-ring-road"
+  },
+  {
+    "_id": {
+      "$oid": "6597b16a4f24582aa492c8bd"
+    },
+    "address": "OPP. MOMENTS MALL SHADIPUR DEPOT TOWARDS MOTI NAGAR",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704440169/OOH_PLAN_FOR_DELHI_NCR_page-0009_qgq6px.jpg",
+    "category": "Outdoor Advertising",
+    "city": "west delhi",
+    "heightwidth": "20 X 10",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "lDx8SsKb",
+    "createdAt": {
+      "$date": "2024-01-05T07:36:10.981Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:36:10.981Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "opp-moments-mall-shadipur-depot-towards-moti-nagar"
+  },
+  {
+    "_id": {
+      "$oid": "6597b2624f24582aa492c8bf"
+    },
+    "address": "OPP. DMALL NETAJI SUBHASH PLACE  ",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704440417/OOH_PLAN_FOR_DELHI_NCR_page-0010_yu5h2v.jpg",
+    "category": "Outdoor Advertising",
+    "city": "north delhi",
+    "heightwidth": "20 X 10",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "nOsGWTeW",
+    "createdAt": {
+      "$date": "2024-01-05T07:40:18.578Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:40:18.578Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "opp-dmall-netaji-subhash-place"
+  },
+  {
+    "_id": {
+      "$oid": "6597b2c74f24582aa492c8c1"
+    },
+    "address": "MALL ROAD NORTH CAMPUS",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704440518/OOH_PLAN_FOR_DELHI_NCR_page-0011_fhhwvc.jpg",
+    "category": "Outdoor Advertising",
+    "city": "north delhi",
+    "heightwidth": "20 X 0",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "9dKIYOAJ",
+    "createdAt": {
+      "$date": "2024-01-05T07:41:59.900Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:41:59.900Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "mall-road-north-campus"
+  },
+  {
+    "_id": {
+      "$oid": "6597b3284f24582aa492c8c3"
+    },
+    "address": "MUKHERJI NAGAR",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704440615/OOH_PLAN_FOR_DELHI_NCR_page-0012_o1mm1b.jpg",
+    "category": "Outdoor Advertising",
+    "city": "north delhi",
+    "heightwidth": "20 X 10",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "62rLpjka",
+    "createdAt": {
+      "$date": "2024-01-05T07:43:36.190Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:43:36.190Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "mukherji-nagar"
+  },
+  {
+    "_id": {
+      "$oid": "6597b5a74f24582aa492c8c7"
+    },
+    "address": "NEAR V3S MALL VIKASH MARG LAXMI NAGAR ",
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704441254/OOH_PLAN_FOR_DELHI_NCR_page-0013_dm6wy0.jpg",
+    "category": "Outdoor Advertising",
+    "city": "east delhi",
+    "heightwidth": "20 X 10",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "kiqAw55e",
+    "createdAt": {
+      "$date": "2024-01-05T07:54:15.175Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:54:15.175Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "near-v3s-mall-vikash-marg-laxmi-nagar"
+  },
+  {
+    "_id": {
+      "$oid": "6597b61c4f24582aa492c8c9"
+    },
+    "address": "METRO PILLAR M G ROAD METRO STATION",
+    "price": null,
+    "totalsqft": 40,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704441371/OOH_PLAN_FOR_DELHI_NCR_page-0014_vcd8vp.jpg",
+    "category": "Outdoor Advertising",
+    "city": "gurgaon",
+    "heightwidth": "4 X 10",
+    "state": "haryana",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "bY7riUJ6",
+    "createdAt": {
+      "$date": "2024-01-05T07:56:12.377Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T07:56:12.377Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "metro-pillar-m-g-road-metro-station"
+  },
+  {
+    "_id": {
+      "$oid": "6597ba8cc42f167795214bdf"
+    },
+    "address": "METRO PILLAR SIKANDER PUR METRO STATION",
+    "price": null,
+    "totalsqft": 40,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704442487/OOH_PLAN_FOR_DELHI_NCR_page-0015_cd4nxj.jpg",
+    "category": "Outdoor Advertising",
+    "city": "gurgaon",
+    "heightwidth": "4 X 10",
+    "state": "haryana",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "HDvQCtUH",
+    "createdAt": {
+      "$date": "2024-01-05T08:15:08.627Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T08:15:08.627Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "metro-pillar-sikander-pur-metro-station"
+  },
+  {
+    "_id": {
+      "$oid": "6598016f86725d727559b32b"
+    },
+    "address": "AGRA ALIGARH ROAD, HATHRAS",
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704460654/AGRA-ALIGARH-ROAD_-HATHRAS_jnarmp.jpg",
+    "category": "Outdoor Advertising",
+    "city": "hathras",
+    "heightwidth": "35 X 25",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Non Lit",
+    "code": "RqGbij7q",
+    "createdAt": {
+      "$date": "2024-01-05T13:17:35.993Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T13:17:35.993Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "agra-aligarh-road-hathras"
+  },
+  {
+    "_id": {
+      "$oid": "659802a386725d727559b330"
+    },
+    "address": "ADARSH NAGAR, MEERUT",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704460962/ADARSH-NAGAR_-MEERUT_i2sygs.jpg",
+    "category": "Outdoor Advertising",
+    "city": "meerut",
+    "heightwidth": "20 X 10",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Non Lit",
+    "code": "Pm6E1tT4",
+    "createdAt": {
+      "$date": "2024-01-05T13:22:43.428Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T13:22:43.428Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "adarsh-nagar-meerut"
+  },
+  {
+    "_id": {
+      "$oid": "6598030886725d727559b337"
+    },
+    "address": "AIRPORT ROAD, AGRA",
+    "price": null,
+    "totalsqft": 450,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704461062/AIRPORT-ROAD_-AGRA_uwmmlj.jpg",
+    "category": "Outdoor Advertising",
+    "city": "agra",
+    "heightwidth": "30 X 15",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Non Lit",
+    "code": "jlRokFOK",
+    "createdAt": {
+      "$date": "2024-01-05T13:24:24.059Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T13:24:24.059Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "airport-road-agra"
+  },
+  {
+    "_id": {
+      "$oid": "6598038086725d727559b33a"
+    },
+    "address": "AIRPORTROAD, LUCKNOW",
+    "price": null,
+    "totalsqft": 899,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704461183/AIRPORTROAD_-LUCKNOW_be7xce.jpg",
+    "category": "Outdoor Advertising",
+    "city": "lucknow",
+    "heightwidth": "30 x 30",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Non Lit",
+    "code": "rncJZgk6",
+    "createdAt": {
+      "$date": "2024-01-05T13:26:24.937Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T13:26:24.937Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "airportroad-lucknow"
+  },
+  {
+    "_id": {
+      "$oid": "6598043086725d727559b33d"
+    },
+    "address": "ALLAHAPUR, ALLAHABAD",
+    "price": null,
+    "totalsqft": 600,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704461359/ALLAHAPUR_-ALLAHABAD_m8bww0.jpg",
+    "category": "Outdoor Advertising",
+    "city": "allahabad",
+    "heightwidth": "30 x 20",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Non Lit",
+    "code": "F5WcX1HN",
+    "createdAt": {
+      "$date": "2024-01-05T13:29:20.841Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T13:29:20.841Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "allahapur-allahabad"
+  },
+  {
+    "_id": {
+      "$oid": "6598048786725d727559b340"
+    },
+    "address": "ALAMBAGH BUSSTOP, LUCKNOW",
+    "price": null,
+    "totalsqft": 900,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704461446/ALAMBAGH-BUSSTOP_-LUCKNOW_pmlexr.jpg",
+    "category": "Outdoor Advertising",
+    "city": "lucknow",
+    "heightwidth": "30 x 30",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Non Lit",
+    "code": "04Ynsafo",
+    "createdAt": {
+      "$date": "2024-01-05T13:30:47.959Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T13:30:47.959Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "alambagh-busstop-lucknow"
+  },
+  {
+    "_id": {
+      "$oid": "659804d686725d727559b343"
+    },
+    "address": "AMBEDKER TIRAHA, FARRUKHABAD",
+    "price": null,
+    "totalsqft": 399,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704461525/AMBEDKER-TIRAHA_-FARRUKHABAD_awp3vz.jpg",
+    "category": "Outdoor Advertising",
+    "city": "farrukhabad",
+    "heightwidth": "40 X 10",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Non Lit",
+    "code": "G6d84Zpz",
+    "createdAt": {
+      "$date": "2024-01-05T13:32:06.805Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T13:32:06.805Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "ambedker-tiraha-farrukhabad"
+  },
+  {
+    "_id": {
+      "$oid": "6598054d86725d727559b346"
+    },
+    "address": "BADSHAH NAGAR, LUCKNOW",
+    "price": null,
+    "totalsqft": 800,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1704461643/BADSHAH-NAGAR_-LUCKNOW_ksea6w.jpg",
+    "category": "Outdoor Advertising",
+    "city": "lucknow",
+    "heightwidth": "40 x 20",
+    "state": "delhi",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "HthMK9M6",
+    "createdAt": {
+      "$date": "2024-01-05T13:34:05.691Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-05T13:34:05.691Z"
+    },
+    "__v": 0,
+    "urlcat": "outdoor-advertising-agency",
+    "url": "badshah-nagar-lucknow"
+  },
+  {
+    "_id": {
+      "$oid": "6598059686725d727559b349"
+    },
+    "address": "CHARBAGH, LUCKNOW",
+    "price": null,
+    "totalsqft": 390,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705390075/CHARBAGH_-LUCKNOW_xnngib_euyihe_updhtt_mvbkim.jpg",
+    "category": "Outdoor Advertising",
+    "city": "lucknow",
+    "heightwidth": "30 x 13",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "",
+    "code": "CyOvmoMl",
+    "createdAt": {
+      "$date": "2024-01-05T13:35:18.223Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-16T07:27:56.132Z"
+    },
+    "__v": 0,
+    "subcat": "DIGITAL",
+    "url": "charbagh-lucknow",
+    "urlcat": "outdoor-advertising-agency"
+  },
+  {
+    "_id": {
+      "$oid": "65a5373c60230f7e34bfbe5f"
+    },
+    "address": "AIRPORTROAD, LUCKNOW",
+    "price": 12345,
+    "totalsqft": 34563,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705390003/Transit_media_i4xapu_c9y9ve_eqtnbg.jpg",
+    "category": "Outdoor Advertising",
+    "city": "lucknow",
+    "heightwidth": "12 x 45",
+    "state": "uttar pradesh",
+    "seotitle": "",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "",
+    "code": "hl4iSCcz",
+    "subcat": "DIGITAL",
+    "title": "",
+    "url": "this-is-important-url-url",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-15T13:46:36.888Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-16T07:26:44.403Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ab55f4bb54f9698e6d3c3c"
+    },
+    "address": " WALL PANEL R K PURAM METRO STATION OUTER RING ROAD",
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705727573/outdoor_ojfkga_d2xay6.jpg",
+    "category": "Outdoor Advertising",
+    "city": "south delhi",
+    "heightwidth": "",
+    "state": "delhi",
+    "seotitle": "this is seo title",
+    "seodesc": "",
+    "desc": "",
+    "illumination": "",
+    "code": "p5xPjz7p",
+    "subcat": "",
+    "title": "",
+    "url": "wall-panel-r-k-puram-metro-station-outer-ring-road",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T05:11:16.748Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T05:12:54.669Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65aba03c82019d813c43f15e"
+    },
+    "address": "Near Pinjara Gosala Gate, Sanganer, Tonk Road",
+    "totalsqft": 128,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705746490/Near-Pinjara-Gosala-Gate_-Sanganer_-Tonk-Road_d62xzv.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "16*8",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in Near Pinjara Gosala Gate, Sanganer, Tonk Road",
+    "seodesc": "Discover the best hoarding near Pinjara Gosala Gate, Sanganer, Tonk Road. Captivate your audience with impactful advertising. Unleash visibility now!",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "HTRkHwPH",
+    "subcat": "UNIPOLE",
+    "title": "Best Hoarding in Near Pinjara Gosala Gate, Sanganer, Tonk Road",
+    "url": "best-hoarding-in-near-pinjara-gosala-gate-sanganer-tonk-toad",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T10:28:12.187Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T10:28:12.187Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65aba24482019d813c43f171"
+    },
+    "address": "Maharani College Tonk Road ",
+    "price": null,
+    "totalsqft": 128,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705747011/Maharani-College-Tonk-Road_okykd2.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "16*8",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in Maharani College Tonk Road ",
+    "seodesc": "Discover the best hoarding solutions at Maharani College Tonk Road. Elevate your brand visibility with top-notch advertising spaces. Explore now!",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "cOVA4uj9",
+    "subcat": "UNIPOLE",
+    "title": "",
+    "url": "best-hoarding-in-maharani-college-tonk-road",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T10:36:52.852Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T10:36:52.852Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65aba34e82019d813c43f189"
+    },
+    "address": "Tonk Road, Lakshmi Mandir crossing Fcg Flyover",
+    "price": null,
+    "totalsqft": 450,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705747412/Tonk-Road_-Lakshmi-Mandir-crossing-Fcg-Flyover_ycfp9g_vxcl76.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "30*15",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in Tonk Road, Lakshmi Mandir crossing Fcg Flyover",
+    "seodesc": "Discover the pinnacle of outdoor advertising at Tonk Road, Lakshmi Mandir crossing & Fcg Flyover. Elevate your brand with the best hoarding spaces.",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "XmqtphNn",
+    "subcat": "UNIPOLE",
+    "title": "",
+    "url": "best-hoarding-in-tonk-road-lakshmi-mandir-crossing-fcg-flyover",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T10:41:18.937Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T10:43:34.283Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65aba65b82019d813c43f1cb"
+    },
+    "address": "Best Hoarding in Tonk Flyover Nr. Kisaan Marg",
+    "totalsqft": 287,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705748058/Tonk-Flyover-Nr.-Kisaan-Marg_np5n25.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "41*7",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in Tonk Flyover Nr. Kisaan Marg",
+    "seodesc": "Discover top-notch hoarding spaces near Tonk Flyover, close to Kisaan Marg. Elevate your brand visibility with the best advertising locations in town!",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "crAtjpee",
+    "subcat": "BILLBOARD",
+    "title": "",
+    "url": "best-hoarding-in-tonk-flyover-nr-kisaan-marg",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T10:54:19.819Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T10:54:19.819Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65aba77d82019d813c43f1d7"
+    },
+    "address": "Best Hoarding in Corner of Mahaveer Nagar gopalpura bypass road ",
+    "price": null,
+    "totalsqft": 128,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705748348/Corner-of-Mahaveer-Nagar-Gopalpura-bypass-road_wmkoxg.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "16*8",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in Corner of Mahaveer Nagar gopalpura bypass road ",
+    "seodesc": "Discover the best hoarding solutions at Mahaveer Nagar, Gopalpura Bypass Road. Elevate your brand visibility with strategic placements and impactful designs.",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "whEK0BUh",
+    "subcat": "UNIPOLE",
+    "title": "",
+    "url": "best-hoarding-in-corner-of-mahaveer-nagar-gopalpura-bypass-road",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T10:59:09.386Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T10:59:09.386Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65aba86882019d813c43f1dc"
+    },
+    "address": "Best Hoarding in Queens Road near Jharkhand Mahadev",
+    "price": null,
+    "totalsqft": 128,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705750859/Queens-Road-near-Jharkhand-Mahadev_nrocc3_xu8ncw.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "16*8",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in Queens Road near Jharkhand Mahadev",
+    "seodesc": "Discover the best hoarding solutions near Jharkhand Mahadev on Queens Road. Elevate your brand visibility with top-notch advertising spaces and strategic placements.",
+    "desc": "",
+    "illumination": "Non Lit",
+    "code": "YiNy4KMT",
+    "subcat": "UNIPOLE",
+    "title": "",
+    "url": "best-hoarding-in-queens-road-near-jharkhand-mahadev",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T11:03:04.285Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T11:41:01.552Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65aba96882019d813c43f1ee"
+    },
+    "address": "Best Hoarding in  Mahesh Nagar gopalpura bypass road ",
+    "price": null,
+    "totalsqft": 128,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705750734/Mahesh-Nagar-Gopalpura-bypass-road_t3fytj_rdg56o.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "16*8",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in  Mahesh Nagar gopalpura bypass road ",
+    "seodesc": "Discover the best hoarding solutions in Mahesh Nagar, Gopalpura Bypass Road. Elevate your brand visibility with top-notch advertising spaces. Explore now!",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "L1DTvpUc",
+    "subcat": "UNIPOLE",
+    "title": "",
+    "url": "best-hoarding-in-mahesh-nagar-gopalpura-bypass-road",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T11:07:20.494Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T11:38:55.866Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65abaa5582019d813c43f1ff"
+    },
+    "address": "Best Hoarding in New Aatish Market Station fcg Mansarovar ",
+    "price": null,
+    "totalsqft": 200,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705749076/New-Aatish-Market-Station-fcg-Mansarovar_oh3ajz.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "20*10",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in New Aatish Market Station fcg Mansarovar ",
+    "seodesc": "Discover the best hoarding solutions at New Aatish Market Station, FCG Mansarovar. Elevate your brand visibility with top-notch advertising spaces.",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "WrZt9bVh",
+    "subcat": "BILLBOARD",
+    "title": "",
+    "url": "best-hoarding-in-new-aatish-market-station-fcg-mansarovar",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T11:11:17.799Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T11:11:17.799Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65abab5882019d813c43f20c"
+    },
+    "address": "Best Hoarding in New Atish Market Station Entry Gate fcg Gurjar ki Thadi ",
+    "price": null,
+    "totalsqft": 128,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705749334/New-Atish-Market-Station-Entry-Gate-fcg-Gurjar-ki-Thadi_br1ugo.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "16*8",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in New Atish Market Station Entry Gate fcg Gurjar ki Thadi ",
+    "seodesc": "Discover the best hoarding at New Atish Market Station Entry Gate - FC Gurjar ki Thadi. Captivate your audience with impactful advertising solutions.",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "imt9coSS",
+    "subcat": "UNIPOLE",
+    "title": "",
+    "url": "best-hoarding-in-new-atish-market-station-entry-gate-fcg-gurjar-ki-thadi",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T11:15:36.117Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T11:15:36.117Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65abac6d82019d813c43f219"
+    },
+    "address": "Best Hoarding in Vaishali Nagar Vaibhav Cinema ",
+    "price": null,
+    "totalsqft": 128,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705749611/Vaishali-Nagar-Vaibhav-Cinema_lfcnlh.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "16*8",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in Vaishali Nagar Vaibhav Cinema ",
+    "seodesc": "Discover the best hoarding spaces in Vaishali Nagar near Vaibhav Cinema for impactful advertising. Elevate your brand visibility with prime locations.",
+    "desc": "",
+    "illumination": "Non Lit",
+    "code": "7I5n6ZTc",
+    "subcat": "BILLBOARD",
+    "title": "",
+    "url": "best-hoarding-in-vaishali-nagar-vaibhav-cinema",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T11:20:13.487Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T11:20:13.487Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65abaf0482019d813c43f22f"
+    },
+    "address": "Best Hoarding in Vaishali Nagar, Nursery Circle,",
+    "price": null,
+    "totalsqft": 128,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705750275/Vaishali-Nagar_-Nursery-Circle_eqglel.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "16*8",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in Vaishali Nagar, Nursery Circle,",
+    "seodesc": "Discover top-notch hoarding services in Vaishali Nagar, Nursery Circle. Boost visibility with the best advertising solutions for impactful results.",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "MUNCQsHD",
+    "subcat": "UNIPOLE",
+    "title": "",
+    "url": "best-hoarding-in-vaishali-nagar-nursery-circle",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T11:31:16.886Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T11:31:16.886Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65abb00282019d813c43f249"
+    },
+    "address": "Best Hoarding in Amrapali Circle, Vaishali Nagar",
+    "price": null,
+    "totalsqft": 128,
+    "image": "https://res.cloudinary.com/dmlflkbrx/image/upload/v1705750528/Amrapali-Circle_-Vaishali-Nagar_awsjii.jpg",
+    "category": "Outdoor Advertising",
+    "city": "jaipur",
+    "heightwidth": "16*8",
+    "state": "rajasthan",
+    "seotitle": "Best Hoarding in Amrapali Circle, Vaishali Nagar",
+    "seodesc": "Discover the finest hoarding solutions in Amrapali Circle, Vaishali Nagar. Elevate your brand visibility with our top-notch advertising spaces.",
+    "desc": "",
+    "illumination": "Front Lit",
+    "code": "NRHtxr9j",
+    "subcat": "UNIPOLE",
+    "title": "",
+    "url": "best-hoarding-in-amrapali-circle-vaishali-nagar",
+    "urlcat": "outdoor-advertising-agency",
+    "createdAt": {
+      "$date": "2024-01-20T11:35:30.156Z"
+    },
+    "updatedAt": {
+      "$date": "2024-01-20T11:35:30.156Z"
+    },
+    "__v": 0
+  }
+]
